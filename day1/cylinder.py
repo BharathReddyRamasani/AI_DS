@@ -1,0 +1,5 @@
+r,h=map(int,input("enter r and h").split())
+print(f'vol:{3.14*r**2*h}')
+print(f'surfacearea:{2*3.14*r*(r+h)}')
+print(f'area:{2*3.14*r*h}')
+print(f'cir:{2*3.14*r}')

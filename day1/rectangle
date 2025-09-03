@@ -1,0 +1,6 @@
+# l=int(input("enter l"))
+# b=int(input("enter b"))
+l,b=map(int,input("enter l and b").split())
+print(f'area{l*b}')
+print(f'perimeter{2*(l+b)}')
+# print("area:",l,"peri:",p,":",cir,peri)
