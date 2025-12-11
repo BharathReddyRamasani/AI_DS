@@ -1,0 +1,4 @@
+destination_city,delay_minutes,traffic_congestion_score,shipment_count
+Chennai,240.0,6.0,1
+Hyderabad,60.0,6.0,1
+Bangalore,-220.0,8.0,3

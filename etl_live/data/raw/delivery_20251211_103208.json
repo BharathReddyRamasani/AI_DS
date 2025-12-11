@@ -1,0 +1,52 @@
+[
+  {
+    "shipment_id": "SWIFT-44229",
+    "source_city": "Mumbai",
+    "destination_city": "Bangalore",
+    "dispatch_time": "2025-12-11T05:32:08.169846",
+    "expected_delivery_time": "2025-12-12T02:32:08.169846",
+    "actual_delivery_time": "2025-12-12T06:32:08.169846",
+    "package_weight_kg": 5.1,
+    "delivery_agent_id": "AGT-448"
+  },
+  {
+    "shipment_id": "SWIFT-78510",
+    "source_city": "Mumbai",
+    "destination_city": "Chennai",
+    "dispatch_time": "2025-12-09T22:32:08.169846",
+    "expected_delivery_time": "2025-12-10T20:32:08.169846",
+    "actual_delivery_time": "2025-12-11T00:32:08.169846",
+    "package_weight_kg": 0.78,
+    "delivery_agent_id": "AGT-858"
+  },
+  {
+    "shipment_id": "SWIFT-92218",
+    "source_city": "Mumbai",
+    "destination_city": "Hyderabad",
+    "dispatch_time": "2025-12-10T08:32:08.169846",
+    "expected_delivery_time": "2025-12-10T22:32:08.169846",
+    "actual_delivery_time": "2025-12-10T23:32:08.169846",
+    "package_weight_kg": 19.33,
+    "delivery_agent_id": "AGT-224"
+  },
+  {
+    "shipment_id": "SWIFT-76962",
+    "source_city": "Delhi",
+    "destination_city": "Bangalore",
+    "dispatch_time": "2025-12-09T19:32:08.169846",
+    "expected_delivery_time": "2025-12-10T14:32:08.169846",
+    "actual_delivery_time": "2025-12-10T01:32:08.169846",
+    "package_weight_kg": 18.23,
+    "delivery_agent_id": "AGT-279"
+  },
+  {
+    "shipment_id": "SWIFT-56199",
+    "source_city": "Delhi",
+    "destination_city": "Bangalore",
+    "dispatch_time": "2025-12-09T10:32:08.169846",
+    "expected_delivery_time": "2025-12-09T23:32:08.169846",
+    "actual_delivery_time": "2025-12-09T21:32:08.169846",
+    "package_weight_kg": 12.55,
+    "delivery_agent_id": "AGT-826"
+  }
+]

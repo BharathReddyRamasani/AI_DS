@@ -1,0 +1,26 @@
+city,location,latitude,longitude,parameter,value,unit,last_updated,source_file
+Bengaluru,Bengaluru Center,13.0,77.600006,pm25,45.5,µg/m³,2025-12-11T10:30,Bengaluru_raw_20251211_112820.json
+Bengaluru,Bengaluru Center,13.0,77.600006,pm10,48.4,µg/m³,2025-12-11T10:30,Bengaluru_raw_20251211_112820.json
+Bengaluru,Bengaluru Center,13.0,77.600006,nitrogendioxide,8.4,µg/m³,2025-12-11T10:30,Bengaluru_raw_20251211_112820.json
+Bengaluru,Bengaluru Center,13.0,77.600006,ozone,150.0,µg/m³,2025-12-11T10:30,Bengaluru_raw_20251211_112820.json
+Bengaluru,Bengaluru Center,13.0,77.600006,sulphurdioxide,16.3,µg/m³,2025-12-11T10:30,Bengaluru_raw_20251211_112820.json
+Delhi,Delhi Center,28.599998,77.20001,pm25,110.8,µg/m³,2025-12-11T10:30,Delhi_raw_20251211_112819.json
+Delhi,Delhi Center,28.599998,77.20001,pm10,111.5,µg/m³,2025-12-11T10:30,Delhi_raw_20251211_112819.json
+Delhi,Delhi Center,28.599998,77.20001,nitrogendioxide,32.6,µg/m³,2025-12-11T10:30,Delhi_raw_20251211_112819.json
+Delhi,Delhi Center,28.599998,77.20001,ozone,139.0,µg/m³,2025-12-11T10:30,Delhi_raw_20251211_112819.json
+Delhi,Delhi Center,28.599998,77.20001,sulphurdioxide,50.0,µg/m³,2025-12-11T10:30,Delhi_raw_20251211_112819.json
+Hyderabad,Hyderabad Center,17.400002,78.5,pm25,18.5,µg/m³,2025-12-11T10:30,Hyderabad_raw_20251211_112821.json
+Hyderabad,Hyderabad Center,17.400002,78.5,pm10,18.9,µg/m³,2025-12-11T10:30,Hyderabad_raw_20251211_112821.json
+Hyderabad,Hyderabad Center,17.400002,78.5,nitrogendioxide,9.1,µg/m³,2025-12-11T10:30,Hyderabad_raw_20251211_112821.json
+Hyderabad,Hyderabad Center,17.400002,78.5,ozone,139.0,µg/m³,2025-12-11T10:30,Hyderabad_raw_20251211_112821.json
+Hyderabad,Hyderabad Center,17.400002,78.5,sulphurdioxide,15.8,µg/m³,2025-12-11T10:30,Hyderabad_raw_20251211_112821.json
+Kolkata,Kolkata Center,22.599998,88.399994,pm25,127.6,µg/m³,2025-12-11T10:30,Kolkata_raw_20251211_112822.json
+Kolkata,Kolkata Center,22.599998,88.399994,pm10,131.3,µg/m³,2025-12-11T10:30,Kolkata_raw_20251211_112822.json
+Kolkata,Kolkata Center,22.599998,88.399994,nitrogendioxide,9.8,µg/m³,2025-12-11T10:30,Kolkata_raw_20251211_112822.json
+Kolkata,Kolkata Center,22.599998,88.399994,ozone,189.0,µg/m³,2025-12-11T10:30,Kolkata_raw_20251211_112822.json
+Kolkata,Kolkata Center,22.599998,88.399994,sulphurdioxide,32.5,µg/m³,2025-12-11T10:30,Kolkata_raw_20251211_112822.json
+Mumbai,Mumbai Center,19.099998,72.90001,pm25,39.7,µg/m³,2025-12-11T10:30,Mumbai_raw_20251211_112821.json
+Mumbai,Mumbai Center,19.099998,72.90001,pm10,39.7,µg/m³,2025-12-11T10:30,Mumbai_raw_20251211_112821.json
+Mumbai,Mumbai Center,19.099998,72.90001,nitrogendioxide,34.8,µg/m³,2025-12-11T10:30,Mumbai_raw_20251211_112821.json
+Mumbai,Mumbai Center,19.099998,72.90001,ozone,143.0,µg/m³,2025-12-11T10:30,Mumbai_raw_20251211_112821.json
+Mumbai,Mumbai Center,19.099998,72.90001,sulphurdioxide,29.8,µg/m³,2025-12-11T10:30,Mumbai_raw_20251211_112821.json
